@@ -20,7 +20,7 @@
  * Boston, MA 02110-1301, USA.
  */
 
-namespace drnkwati\Html;
+namespace Drnkwati\Html\Minifier;
 
 class SegmentedString {
     const ENCODING = 'UTF-8';
