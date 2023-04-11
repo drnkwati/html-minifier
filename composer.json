@@ -30,8 +30,8 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {
-            "zz": "src/"
+        "psr-4": {
+            "Drnkwati\\Html\\Minifier\\": "src/zz/Html/"
         }
     }
 }
