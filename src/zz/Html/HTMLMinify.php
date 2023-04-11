@@ -5,7 +5,7 @@
  * @license MIT
  */
 
-namespace zz\Html;
+namespace drnkwati\Html;
 
 class HTMLMinify {
     const DOCTYPE_HTML4 = 'HTML4.01';
