@@ -26,7 +26,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace zz\Html;
+namespace drnkwati\Html;
 
 class HTMLNames {
 
