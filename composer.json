@@ -1,5 +1,5 @@
 {
-    "name": "zaininnari/html-minifier",
+    "name": "drnkwati/html-minifier",
     "description": "The Blink HTMLTokenizer ported to PHP.",
     "type": "library",
     "keywords": ["PHP", "Blink", "HTML minify"],
@@ -14,6 +14,11 @@
         {
             "name": "zaininnari",
             "homepage": "https://github.com/zaininnari/",
+            "role": "Developer"
+        },
+        {
+            "name": "Divine",
+            "homepage": "https://github.com/drnkwati/",
             "role": "Developer"
         }
     ],
