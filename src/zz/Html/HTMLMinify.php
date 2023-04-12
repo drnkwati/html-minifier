@@ -237,7 +237,7 @@ class HTMLMinify {
      */
     protected function options(Array $options) {
         $_options = array(
-            'doctype' => static::DOCTYPE_XHTML1,
+            'doctype' => static::DOCTYPE_HTML5,
             'optimizationLevel' => static::OPTIMIZATION_ADVANCED,
             'emptyElementAddSlash' => false,
             'emptyElementAddWhitespaceBeforeSlash' => false,
