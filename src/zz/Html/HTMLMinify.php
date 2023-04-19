@@ -263,7 +263,7 @@ class HTMLMinify {
             ),
         );
 
-        $documentTypeOption = $documentTypeOptions[static::DOCTYPE_XHTML1];
+        $documentTypeOption = $documentTypeOptions[static::DOCTYPE_HTML5];
         if (isset($options['doctype'])) {
             $doctype = $options['doctype'];
             if (isset($documentTypeOptions[$doctype])) {
